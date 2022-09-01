@@ -7,7 +7,9 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
----
+----
+
+```
 
 Dizinin en başındaki eleman 7 root olarak seçilir.
 1.Adım: 5 elemanı 7'den küçük olduğu için sola eklenir.
@@ -19,6 +21,10 @@ Dizinin en başındaki eleman 7 root olarak seçilir.
 7.Adım: 9 elemanı 7'in solundan 8'in soluna eklenir.
 8.Adım: 4 elemanı 7 ve 5'in solundan 1'in sağından 3'ün sağına eklenir.
 9.Adım: 2 elemanı 7 ve 5'in solundan 1'in sağından ve 3'ün soluna eklenir.
+
+```
+
+---
 
 ![örnek resim](https://user-images.githubusercontent.com/111930812/187810568-8c574b8c-501f-4a07-b597-65cb9838e774.png)
 
